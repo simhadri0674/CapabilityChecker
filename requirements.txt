@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+simple-salesforce
+groq
+pandas
+openpyxl
+reportlab
+jinja2
