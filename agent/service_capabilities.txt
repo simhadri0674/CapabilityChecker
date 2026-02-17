@@ -1,0 +1,50 @@
+Case Management - Central system to create, track, and resolve customer support cases. 
+Case Assignment Rules - Automatically route cases to
+agents or queues based on conditions. 
+Escalation Rules - Escalate cases
+based on SLA breaches or priority conditions. 
+Auto Response Rules - Send automated email responses when cases are created. 
+Omni-Channel Routing - Distribute work items to agents based on availability and skills.
+Entitlements - Define service agreements and support terms for customers. 
+Milestones - Track time-bound steps in service processes.
+Knowledge Base - Central repository of articles for customer self-service and agents. 
+Email-to-Case - Convert incoming emails into support cases automatically. 
+Web-to-Case - Create cases from website forms submitted by customers. 
+Macros - Automations for repetitive tasks executed by support agents. 
+Quick Text - Predefined text snippets for faster customer communication. 
+Service Console - Unified workspace interface for service agents. 
+Live Chat - Real-time chat support for customer interactions. 
+CTI Integration - Integrate telephony systems for call handling in Salesforce. 
+Field Service Management - Manage field technicians, work orders, and on-site service.
+Einstein Bots - AI chatbots for automated customer interactions. 
+Case Queues - Group cases for assignment to teams or departments. 
+Service Level Agreements(SLAs) - Define service commitments and response timelines. 
+Reports - Analytical views of service performance and operations. 
+Dashboards -Visual metrics and KPIs for service operations. Automation Flows -
+Workflow automation using Flow Builder. 
+Apex Triggers - Custom event-driven logic for automation. 
+API Integrations - Integrate Salesforce with external applications and systems.
+Data Storage Monitoring - Track data storage consumption and performance impact.
+Permission Sets - Granular access control for users. 
+Profiles - Role-based security configuration and permissions. 
+Service Contracts - Manage long-term service agreements with customers. 
+Customer Community - Self-service portals for customers. 
+Partner Community - Support portals for partners.
+Incident Management - Track major incidents affecting customers. 
+Problem Management - Identify and resolve root causes of recurring issues. 
+Change Management - Manage updates and system changes affecting service. 
+Asset Management - Track customer-owned products for support. 
+Work Orders - Manage service tasks for field operations.
+Service Appointments - Schedule field service visits. Routing
+Configurations - Define logic for routing work items. Skills-Based
+Routing - Assign work based on agent expertise. Presence
+Configurations - Manage agent availability status. Social Customer
+Service - Support customers through social media channels. Messaging
+Channels - Support via WhatsApp, SMS, and messaging apps. Case
+Swarming - Collaborative case resolution among multiple agents. Service
+Analytics - Advanced analytics for service operations. Customer Feedback
+Surveys - Collect customer satisfaction data. Knowledge
+Recommendations - Suggest relevant articles during case handling.
+Einstein Case Classification - AI-driven case categorization. Einstein
+Next Best Action - Recommend actions for agents during service. Service
+Forecasting - Predict service demand and workload.
