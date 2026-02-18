@@ -306,8 +306,8 @@ def analyze_with_llm(df):
     {capability_summary}
 
     Based on this:
-    1. Identify missing capabilities (NO).
-    2. Suggest practical improvement steps.
+    1. Identify missing capabilities(NO).
+    2. Suggest practical improvement steps mention along with keywords and add some more intersting points.
     3. Provide a 3-phase roadmap (Immediate, Mid-term, Advanced).
     4. Keep recommendations business-oriented and concise.
     """
