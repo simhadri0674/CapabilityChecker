@@ -1,0 +1,104 @@
+Case Management
+Case Assignment Rules
+Escalation Rules
+Auto Response Rules
+Omni-Channel Routing
+Entitlements
+Milestones
+Knowledge Base
+Email-to-Case
+Web-to-Case
+Macros
+Quick Text
+Service Console
+Live Chat
+CTI Integration
+Field Service Management
+Einstein Bots
+Case Queues
+Service Level Agreements
+Reports
+Dashboards
+Automation Flows
+Apex Triggers
+API Integrations
+Data Storage Monitoring
+Permission Sets
+Profiles
+Service Contracts
+Customer Community
+Partner Community
+Incident Management
+Problem Management
+Change Management
+Asset Management
+Work Orders
+Service Appointments
+Routing Configurations
+Skills-Based Routing
+Presence Configurations
+Social Customer Service
+Messaging Channels
+Case Swarming
+Service Analytics
+Customer Feedback Surveys
+Knowledge Recommendations
+Einstein Case Classification
+Einstein Next Best Action
+Service Forecasting
+Advanced Reporting Snapshots
+Custom Report Types
+Dynamic Dashboards
+Flow Orchestration
+Approval Processes
+Process Builder
+Queue-Based Assignment
+Territory Management
+Record Types
+Validation Rules
+Custom Metadata Types
+Custom Settings
+External Services Integration
+Named Credentials
+Event Monitoring
+Platform Events
+Change Data Capture
+Outbound Messaging
+Inbound Web Services
+Single Sign-On
+Two-Factor Authentication
+Shield Encryption
+Field Audit Trail
+Login History Monitoring
+Delegated Administration
+Connected Apps
+AppExchange Integrations
+Lightning App Builder
+Experience Cloud Sites
+Role Hierarchy
+Public Groups
+Data Import Wizard
+Data Loader Support
+Bulk API
+Streaming API
+REST API Access
+SOAP API Access
+Sandbox Environment
+Partial Copy Sandbox
+Full Sandbox
+DevOps Deployment Support
+Metadata Deployment
+Change Sets
+Einstein Activity Capture
+Service Performance Analytics
+Workload Balancing
+Case Merge
+Duplicate Management
+Data Masking
+Entitlement Templates
+Milestone Actions
+Service Channel Configuration
+Omni Supervisor
+Agent Productivity Tools
+Embedded Service Deployment
+Customer Identity Management
