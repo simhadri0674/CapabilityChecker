@@ -1,0 +1,154 @@
+{
+  "product": "Salesforce Service Cloud",
+  "version": "1.0",
+  "feature_categories": [
+
+    {
+      "id": "case_management",
+      "name": "Case Management",
+      "features": [
+        {
+          "id": "standard_case_management",
+          "name": "Case Object Usage",
+          "category": "Case Management",
+          "impact_score": 95,
+          "license_requirement": "Service Cloud",
+          "object_names": ["Case"],
+          "recommendation": "Ensure all customer issues are logged and tracked using Cases.",
+          "roi_metric": "Improves SLA compliance and customer satisfaction.",
+          "doc_url": "https://help.salesforce.com/s/articleView?id=sf.cases_def.htm",
+          "detection": {
+            "object_names": ["Case"]
+          }
+        },
+        {
+          "id": "entitlements_sla",
+          "name": "Entitlements & SLA",
+          "category": "Case Management",
+          "impact_score": 85,
+          "license_requirement": "Service Cloud",
+          "recommendation": "Configure Entitlements to track SLA milestones.",
+          "roi_metric": "Improves SLA tracking and accountability.",
+          "doc_url": "https://help.salesforce.com/s/articleView?id=sf.entitlements_overview.htm",
+          "detection": {
+            "object_names": ["Entitlement"]
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "automation",
+      "name": "Automation",
+      "features": [
+        {
+          "id": "flow_automation",
+          "name": "Flow Automation",
+          "category": "Automation",
+          "impact_score": 90,
+          "license_requirement": "Service Cloud",
+          "recommendation": "Use Flow Builder to automate repetitive tasks.",
+          "roi_metric": "Reduces manual work and errors.",
+          "doc_url": "https://help.salesforce.com/s/articleView?id=sf.flow.htm",
+          "detection": {
+            "object_names": []
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "digital_engagement",
+      "name": "Digital Engagement",
+      "features": [
+        {
+          "id": "live_chat",
+          "name": "Live Chat",
+          "category": "Digital Engagement",
+          "impact_score": 80,
+          "license_requirement": "Digital Engagement Add-on",
+          "recommendation": "Enable Live Chat to support customers in real time.",
+          "roi_metric": "Improves first response time.",
+          "doc_url": "https://help.salesforce.com/s/articleView?id=sf.snapins_chat.htm",
+          "detection": {
+            "object_names": ["LiveChatTranscript"]
+          }
+        },
+        {
+          "id": "omni_channel",
+          "name": "Omni-Channel",
+          "category": "Digital Engagement",
+          "impact_score": 88,
+          "license_requirement": "Service Cloud",
+          "recommendation": "Configure Omni-Channel for intelligent work routing.",
+          "roi_metric": "Balances workload and improves productivity.",
+          "doc_url": "https://help.salesforce.com/s/articleView?id=sf.omnichannel_intro.htm",
+          "detection": {
+            "object_names": []
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "knowledge_management",
+      "name": "Knowledge Management",
+      "features": [
+        {
+          "id": "salesforce_knowledge",
+          "name": "Salesforce Knowledge",
+          "category": "Knowledge Management",
+          "impact_score": 85,
+          "license_requirement": "Service Cloud",
+          "recommendation": "Enable Knowledge to create reusable help articles.",
+          "roi_metric": "Improves self-service and reduces case volume.",
+          "doc_url": "https://help.salesforce.com/s/articleView?id=sf.knowledge_overview.htm",
+          "detection": {
+            "object_names": ["KnowledgeArticleVersion"]
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "ai_capabilities",
+      "name": "AI Capabilities",
+      "features": [
+        {
+          "id": "einstein_bots",
+          "name": "Einstein Bots",
+          "category": "AI Capabilities",
+          "impact_score": 92,
+          "license_requirement": "Einstein Bots Add-on",
+          "recommendation": "Deploy Einstein Bots to automate common queries.",
+          "roi_metric": "Reduces agent workload by automating simple requests.",
+          "doc_url": "https://help.salesforce.com/s/articleView?id=sf.bots_intro.htm",
+          "detection": {
+            "object_names": []
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "analytics",
+      "name": "Service Analytics",
+      "features": [
+        {
+          "id": "service_analytics",
+          "name": "Service Reports & Dashboards",
+          "category": "Service Analytics",
+          "impact_score": 75,
+          "license_requirement": "Service Cloud",
+          "recommendation": "Create dashboards to track service KPIs.",
+          "roi_metric": "Provides visibility into performance metrics.",
+          "doc_url": "https://help.salesforce.com/s/articleView?id=sf.reports_dashboards_overview.htm",
+          "detection": {
+            "object_names": ["Report", "Dashboard"]
+          }
+        }
+      ]
+    }
+
+  ]
+}
